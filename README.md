@@ -13,19 +13,20 @@ This page summarizes my projects as I build practical skills in data analysis.
 
 
 
-# 📈 Time Series Analysis
+## 📈 Time Series Analysis
 
-| Project Link                                                                 | Area        | Tools          | Description                                                                                             |
-| ---------------------------------------------------------------------------- | ----------- | -------------- | ------------------------------------------------------------------------------------------------------- |
-| 📈 [Unemployment Analysis](https://github.com/yourname/unemployment-project) | Time Series | Python, Pandas | Forecasting unemployment trends in Australia using time series models and identifying economic patterns |
+| Project                                                                      | Tools                                | Description                                                                    |
+| ---------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------ |
+| 📈 [Unemployment Analysis](https://github.com/yourname/unemployment-project) | R, Time Series Analysis, Forecasting | Forecasting unemployment trends in Australia and identifying economic patterns |
 
+---
 
+## 🧬 Statistical Analysis
 
-# 🧬 Statistical Analysis
+| Project                                                                | Tools                                | Description                                                                     |
+| ---------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
+| 🧬 [Gallstone Analysis](https://github.com/yourname/gallstone-project) | Python, PCA, Multivariate Statistics | Applied multivariate analysis and hypothesis testing to explore biomedical data |
 
-| Project Link                                                           | Area                    | Tools      | Description                                                                           |
-| ---------------------------------------------------------------------- | ----------------------- | ---------- | ------------------------------------------------------------------------------------- |
-| 🧬 [Gallstone Analysis](https://github.com/yourname/gallstone-project) | Multivariate Statistics | R / Python | Applied PCA, multivariate modeling, and hypothesis testing to analyze biomedical data |
 
 
 

@@ -21,11 +21,12 @@ This page summarizes my projects as I build practical skills in data analysis.
 
 
 
+
 ## 🧬 Statistical Analysis
 
 | Project                                                                | Tools                                | Description                                                                     |
 | ---------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
-| 🧬 https://github.com/li220000/Gallstone-Analysis | Python, PCA, Multivariate Statistics | Applied multivariate analysis and hypothesis testing to explore biomedical data |
+| 🧬 [Gallstone Analysis](https://github.com/li220000/Gallstone-Analysis) | Python, PCA, Multivariate Statistics | Applied multivariate analysis and hypothesis testing to explore biomedical data |
 
 
 

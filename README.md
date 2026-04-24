@@ -19,7 +19,7 @@ This page summarizes my projects as I build practical skills in data analysis.
 | ---------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------ |
 | 📈 [Unemployment Analysis](https://github.com/yourname/unemployment-project) | R, Time Series Analysis, Forecasting | Forecasting unemployment trends in Australia and identifying economic patterns |
 
----
+
 
 ## 🧬 Statistical Analysis
 
